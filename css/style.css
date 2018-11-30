@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font: 15px/1.5 Georgia, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4
+
+}
+
+/* Global */
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Hidden **/
+header{
+    background:url('../assets/images/547933.jpg');
+    color: #ffffff;
+    padding-top: 38px;
+    min-height: 45px;
+    border-bottom: #e8491d 3px solid;
+    font-size: 19px;
+}
+
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font:bold;
+    float: right;
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+    font-size: 59px;
+    font: bold;
+}
+
+header #branding{
+    float: left;
+}
+header #branding h1{
+    margin: 0;
+
+}
+
+header nav{
+float: right;
+margin-top: 10px;
+font-size: 30px;
+font: bold;
+}
+
+
+header .highlight, header .current a{
+    color: #faf6f5;
+    font-weight: bold;
+    
+}
+
+header a:hover{
+    color: #cccccc;
+    font-weight: bold;
+}
+
+/*S Showcase */
+#showcase{
+    min-height: 400px;
+    text-align: center;
+    color: #ffffff;
+    font: bolder;
+     border-bottom: #e8491d 3px solid;
+     background-color: #000000
+}
+
+#showcase h1{
+    margin-top: 58px;
+    font-size: 55px;
+    margin-bottom: 10px;
+    
+}
+
+#showcase p{
+    font:bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#History{
+    padding: 230px;
+    padding-top: 0px;
+    min-height: 75px;
+    color: #ffffff;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:url('../assets/images/547933.JPG');
+}
+
+footer h4{
+    text-align: center;
+    background:url('../assets/images/547933.JPG');
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+}
+    
+]
+
+
+
+
+}
+}
